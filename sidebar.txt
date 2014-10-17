@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mdb:home|Door43 (mdb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mdb|d43-mdb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mdb/archive/master.zip|d43-mdb.zip]]
+
+**Recent Changes**
+{{changes>ns = mdb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mdb|Ethnologue data]]
+
